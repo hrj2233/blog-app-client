@@ -45,6 +45,10 @@ code {
 	border-radius: 50%;
 }
 
+.ql-editor {
+	min-height: 100px;
+}
+
 /* ---------- Auth Page------------ */
 @import url('./auth.css');
 
